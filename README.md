@@ -30,7 +30,7 @@ A full-stack, enterprise-grade helpdesk ticketing system.
 
 ### 1. Clone the repository
 \`\`\`bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/ken-paps/helpdesk-ticketing-system.git
 cd helpdesk
 \`\`\`
 
